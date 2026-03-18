@@ -10,8 +10,6 @@
 ![Status](https://img.shields.io/badge/status-ongoing-38d9a9?style=for-the-badge)
 ![Paris](https://img.shields.io/badge/Paris%2C%20France-7c6af7?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<br/><br/>
-
 <a href="#"><img src="https://skillicons.dev/icons?i=c" height="36"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="36"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=python" height="36"/></a>&nbsp;
