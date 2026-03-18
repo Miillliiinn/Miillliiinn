@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://miillliiinn.github.io/header">
-  <img src="header-preview.png" width="100%"/>
-</a>
+  <img src="header.png" width="100%"/>
 <br/>
 
 ![42 Paris](https://img.shields.io/badge/42%20Paris-000000?style=for-the-badge&logo=42&logoColor=white)
