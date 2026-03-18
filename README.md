@@ -18,9 +18,9 @@
 <img src="https://img.shields.io/badge/📍_Paris-1e2a4a?style=flat-square&color=1e2a4a&labelColor=0a1628"/>
 
 </div>
-![42 Paris](https://img.shields.io/badge/42%20Paris-0d1117?style=flat-square&logo=42&logoColor=white)
+<!-- ![42 Paris](https://img.shields.io/badge/42%20Paris-0d1117?style=flat-square&logo=42&logoColor=white)
 ![Status](https://img.shields.io/badge/●%20ongoing-0d3d2a?style=flat-square&logoColor=38d9a9&color=0d3d2a&labelColor=0d1117)
-![Paris](https://img.shields.io/badge/Paris%2C%20France-0d1117?style=flat-square&logo=googlemaps&logoColor=4A7FD4)
+![Paris](https://img.shields.io/badge/Paris%2C%20France-0d1117?style=flat-square&logo=googlemaps&logoColor=4A7FD4) -->
 
 <br/>
 
