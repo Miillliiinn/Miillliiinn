@@ -3,15 +3,6 @@
 <!-- ANIMATED BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6af7,50:38d9a9,100:f77c6a&height=200&section=header&text=Milin&fontSize=80&fontWeight=800&fontColor=ffffff&animation=fadeIn&desc=systems%20programmer%20by%20training%20·%20full-stack%20dev%20by%20necessity&descSize=16&descAlignY=75&descColor=ccccdd" width="100%"/>
 
-<!-- BADGES -->
-<br/>
-
-![42 Paris](https://img.shields.io/badge/42%20Paris-000000?style=for-the-badge&logo=42&logoColor=white)
-![Status](https://img.shields.io/badge/status-ongoing-38d9a9?style=for-the-badge)
-![Location](https://img.shields.io/badge/Paris%2C%20France-7c6af7?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<br/>
-
 <!-- LANGUAGE BADGES ANIMATED (pulsing via shields) -->
 ![C](https://img.shields.io/badge/C-a8c4ff?style=flat-square&logo=c&logoColor=0a0a0f)
 ![C++](https://img.shields.io/badge/C++-c4a8ff?style=flat-square&logo=cplusplus&logoColor=0a0a0f)
@@ -90,16 +81,6 @@ Shell        ███░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## ▸ GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tmilin&show_icons=true&theme=midnight-purple&bg_color=0a0a0f&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&count_private=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tmilin&theme=midnight-purple&background=0a0a0f&border=1e1e2e&ring=7c6af7&fire=f77c6a&currStreakLabel=38d9a9&sideLabels=e2e2f0&dates=6b6b8a" height="165"/>
-
-</div>
-
 ---
 
 ## ▸ Skills
@@ -136,13 +117,3 @@ Shell        ███░░░░░░░░░░░░░░░░░░░�
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f77c6a,50:38d9a9,100:7c6af7&height=100&section=footer&animation=fadeIn" width="100%"/>
-
-![42 Paris](https://img.shields.io/badge/42%20Paris-ongoing-000000?style=flat-square&logo=42&logoColor=white)
-&nbsp;
-![Profile views](https://komarev.com/ghpvc/?username=tmilin&color=7c6af7&style=flat-square&label=profile+views)
-
-</div>
