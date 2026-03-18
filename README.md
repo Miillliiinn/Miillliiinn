@@ -28,41 +28,57 @@
 <div align="center">
 
 ### 🖥️ Systems & Low-level
-
 ![memory management](https://img.shields.io/badge/memory%20management-0C447C?style=flat-square&logoColor=white)
 ![file descriptors](https://img.shields.io/badge/file%20descriptors-0C447C?style=flat-square)
 ![signals](https://img.shields.io/badge/signals-0C447C?style=flat-square)
 ![processes](https://img.shields.io/badge/processes-0C447C?style=flat-square)
+![pipe / fork / exec](https://img.shields.io/badge/pipe%20%2F%20fork%20%2F%20exec-0C447C?style=flat-square)
 ![threads](https://img.shields.io/badge/threads-0C447C?style=flat-square)
 ![mutexes](https://img.shields.io/badge/mutexes-0C447C?style=flat-square)
 ![sockets](https://img.shields.io/badge/sockets-0C447C?style=flat-square)
-![raycasting](https://img.shields.io/badge/raycasting-0C447C?style=flat-square)
+![IRC protocol](https://img.shields.io/badge/IRC%20protocol-0C447C?style=flat-square)
+![parsing](https://img.shields.io/badge/parsing-0C447C?style=flat-square)
+![linked lists](https://img.shields.io/badge/linked%20lists-0C447C?style=flat-square)
+![bit manipulation](https://img.shields.io/badge/bit%20manipulation-0C447C?style=flat-square)
 ![sorting algorithms](https://img.shields.io/badge/sorting%20algorithms-0C447C?style=flat-square)
+![raycasting](https://img.shields.io/badge/raycasting-0C447C?style=flat-square)
+![3D projection / matrix](https://img.shields.io/badge/3D%20projection%20%2F%20matrix-0C447C?style=flat-square)
 
 ### 🧩 Object-Oriented Programming
-
 ![C++ OOP](https://img.shields.io/badge/C++%20OOP-534AB7?style=flat-square)
+![inheritance](https://img.shields.io/badge/inheritance-534AB7?style=flat-square)
+![polymorphism](https://img.shields.io/badge/polymorphism-534AB7?style=flat-square)
 ![templates](https://img.shields.io/badge/templates-534AB7?style=flat-square)
 ![STL](https://img.shields.io/badge/STL-534AB7?style=flat-square)
+![containers (vector, map, stack)](https://img.shields.io/badge/containers%20(vector%2C%20map%2C%20stack)-534AB7?style=flat-square)
+![exceptions](https://img.shields.io/badge/exceptions-534AB7?style=flat-square)
+![interfaces / abstract classes](https://img.shields.io/badge/interfaces%20%2F%20abstract%20classes-534AB7?style=flat-square)
 ![design patterns](https://img.shields.io/badge/design%20patterns-534AB7?style=flat-square)
-![RAII](https://img.shields.io/badge/RAII-534AB7?style=flat-square)
 ![operator overloading](https://img.shields.io/badge/operator%20overloading-534AB7?style=flat-square)
+![RAII](https://img.shields.io/badge/RAII-534AB7?style=flat-square)
 
 ### 🌐 Web & Full-stack
-
 ![Django](https://img.shields.io/badge/Django-0F6E56?style=flat-square&logo=django&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-0F6E56?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST%20API-0F6E56?style=flat-square)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-0F6E56?style=flat-square)
+![Vanilla JS SPA](https://img.shields.io/badge/Vanilla%20JS%20SPA-0F6E56?style=flat-square&logo=javascript&logoColor=white)
 ![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-0F6E56?style=flat-square&logo=html5&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F6E56?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-0F6E56?style=flat-square&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-0F6E56?style=flat-square&logo=nginx&logoColor=white)
+![session management](https://img.shields.io/badge/session%20management-0F6E56?style=flat-square)
+![CSRF protection](https://img.shields.io/badge/CSRF%20protection-0F6E56?style=flat-square)
 
 ### ⚙️ DevOps & Infrastructure
-
+![Docker](https://img.shields.io/badge/Docker-854F0B?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-854F0B?style=flat-square&logo=docker&logoColor=white)
+![Nginx reverse proxy](https://img.shields.io/badge/Nginx%20reverse%20proxy-854F0B?style=flat-square&logo=nginx&logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-854F0B?style=flat-square)
+![MariaDB](https://img.shields.io/badge/MariaDB-854F0B?style=flat-square&logo=mariadb&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-854F0B?style=flat-square&logo=wordpress&logoColor=white)
+![VM / VirtualBox](https://img.shields.io/badge/VM%20%2F%20VirtualBox-854F0B?style=flat-square&logo=virtualbox&logoColor=white)
+![SSH / UFW / sudo hardening](https://img.shields.io/badge/SSH%20%2F%20UFW%20%2F%20sudo%20hardening-854F0B?style=flat-square)
 ![Linux admin](https://img.shields.io/badge/Linux%20admin-854F0B?style=flat-square&logo=linux&logoColor=white)
 ![networking / IP / subnetting](https://img.shields.io/badge/networking%20%2F%20IP%20%2F%20subnetting-854F0B?style=flat-square)
 
@@ -109,3 +125,4 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2a4a,50:1a2f5e,100:1a3a7a&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
+
