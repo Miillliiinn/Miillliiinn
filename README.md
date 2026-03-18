@@ -1,23 +1,26 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2a4a,50:1a2f5e,100:1a3a7a&height=180&section=header&animation=twinkling" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%91%8B+Hi%2C+i'm+Thomas;42+Paris+Student;From+bits+to+browsers;Looking+for+more" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+i'm+Thomas;42+Paris+Student;From+bits+to+browsers;Looking+for+more" />
+
 <br/>
-<svg width="380" height="32" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="108" height="28" rx="4" fill="#111827" stroke="#1e3a5f" stroke-width="1"/>
-  <text x="54" y="20" font-family="monospace" font-size="12" fill="#7ab3ff" text-anchor="middle">⬡ 42 Paris</text>
-  <rect x="119" y="1" width="90" height="28" rx="4" fill="#111827" stroke="#1a3d2e" stroke-width="1"/>
-  <circle cx="132" cy="15" r="4" fill="#38d9a9"/>
-  <text x="158" y="20" font-family="monospace" font-size="12" fill="#38d9a9" text-anchor="middle">ongoing</text>
-  <rect x="219" y="1" width="140" height="28" rx="4" fill="#111827" stroke="#30363d" stroke-width="1"/>
-  <text x="289" y="20" font-family="monospace" font-size="12" fill="#c9d1d9" text-anchor="middle">📍 Paris, France</text>
-</svg>
+
+![42 Paris](https://img.shields.io/badge/42%20Paris-111827?style=flat-square&logo=42&logoColor=7ab3ff)
+&nbsp;&nbsp;
+![ongoing](https://img.shields.io/badge/●%20ongoing-111827?style=flat-square&logoColor=38d9a9&color=111827)
+&nbsp;&nbsp;
+![Paris](https://img.shields.io/badge/📍%20Paris%2C%20France-111827?style=flat-square&color=111827)
+
 <br/><br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=c" height="36" alt="C" title="C"/></a> 
-<a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="36" alt="C++" title="C++"/></a> 
-<a href="#"><img src="https://skillicons.dev/icons?i=python" height="36" alt="Python" title="Python"/></a> 
-<a href="#"><img src="https://skillicons.dev/icons?i=js" height="36" alt="JavaScript" title="JavaScript"/></a> 
-<a href="#"><img src="https://skillicons.dev/icons?i=bash" height="36" alt="Shell" title="Shell"/></a> 
-<a href="#"><img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" title="Docker"/></a>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=c" height="36"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="36"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=python" height="36"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=js" height="36"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=bash" height="36"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=docker" height="36"/></a>
+
 </div>
 ---
 
