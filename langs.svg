@@ -1,0 +1,46 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 600 11px 'Segoe UI', monospace; fill: #6b6b8a; letter-spacing: 2px; text-transform: uppercase; }
+    .lang  { font: 500 13px 'Segoe UI', monospace; fill: #e2e2f0; }
+    .label { font: 400 11px 'Segoe UI', monospace; fill: #6b6b8a; }
+    .bar-bg { fill: #1e1e2e; rx: 3; }
+    @keyframes grow { from { width: 0px; } }
+  </style>
+
+  <rect width="495" height="195" rx="10" fill="#0d0d14" stroke="#1e1e2e" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="24" y="30" class="title">languages</text>
+  <line x1="24" y1="38" x2="471" y2="38" stroke="#1e1e2e" stroke-width="1"/>
+
+  <!-- C -->
+  <text x="24" y="65" class="lang">C</text>
+  <rect x="80" y="54" width="355" height="6" rx="3" fill="#1e1e2e"/>
+  <rect x="80" y="54" width="312" height="6" rx="3" fill="#a8c4ff" style="animation: grow 0.8s ease-out"/>
+  <text x="447" y="62" class="label" text-anchor="end">9 proj</text>
+  <text x="471" y="62" class="label" text-anchor="end" fill="#6b6b8a">·</text>
+
+  <!-- C++ -->
+  <text x="24" y="97" class="lang">C++</text>
+  <rect x="80" y="86" width="355" height="6" rx="3" fill="#1e1e2e"/>
+  <rect x="80" y="86" width="222" height="6" rx="3" fill="#c4a8ff" style="animation: grow 0.8s ease-out 0.1s both"/>
+  <text x="447" y="94" class="label" text-anchor="end">10 mod</text>
+
+  <!-- Python -->
+  <text x="24" y="129" class="lang">Python</text>
+  <rect x="80" y="118" width="355" height="6" rx="3" fill="#1e1e2e"/>
+  <rect x="80" y="118" width="148" height="6" rx="3" fill="#a8ffdc" style="animation: grow 0.8s ease-out 0.2s both"/>
+  <text x="447" y="126" class="label" text-anchor="end">Django</text>
+
+  <!-- JS -->
+  <text x="24" y="161" class="lang">JS</text>
+  <rect x="80" y="150" width="355" height="6" rx="3" fill="#1e1e2e"/>
+  <rect x="80" y="150" width="111" height="6" rx="3" fill="#fff0a8" style="animation: grow 0.8s ease-out 0.3s both"/>
+  <text x="447" y="158" class="label" text-anchor="end">SPA</text>
+
+  <!-- Shell -->
+  <text x="24" y="188" class="lang">Shell</text>
+  <rect x="80" y="177" width="355" height="6" rx="3" fill="#1e1e2e"/>
+  <rect x="80" y="177" width="60" height="6" rx="3" fill="#ffa8a8" style="animation: grow 0.8s ease-out 0.4s both"/>
+  <text x="447" y="185" class="label" text-anchor="end">scripts</text>
+</svg>
