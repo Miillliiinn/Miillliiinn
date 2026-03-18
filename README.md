@@ -103,6 +103,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Miillliiinn&color=7c6af7&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4332,100:2d6a4f&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2a4a,50:1a2f5e,100:1a3a7a&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
