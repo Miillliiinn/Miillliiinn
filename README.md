@@ -19,11 +19,11 @@
 ![Paris](https://img.shields.io/badge/-📍%20Paris%2C%20France-2a1a5e?style=flat-square&logoColor=a88dff)
 
 </div>
-<img src="https://img.shields.io/badge/⬡%2042%20Paris-0d1117?style=flat-square&logo=42&logoColor=7ab3ff&labelColor=0d1117&color=0d1117"/>
+<!-- <img src="https://img.shields.io/badge/⬡%2042%20Paris-0d1117?style=flat-square&logo=42&logoColor=7ab3ff&labelColor=0d1117&color=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/●%20ongoing-0a1f14?style=flat-square&color=0a1f14&labelColor=0a1f14&logoColor=38d9a9"/>
 &nbsp;
-<img src="https://img.shields.io/badge/📍%20Paris%2C%20France-0d1117?style=flat-square&color=0d1117&labelColor=0d1117&logoColor=a88dff"/>
+<img src="https://img.shields.io/badge/📍%20Paris%2C%20France-0d1117?style=flat-square&color=0d1117&labelColor=0d1117&logoColor=a88dff"/> -->
 <!-- ![42 Paris](https://img.shields.io/badge/42%20Paris-0d1117?style=flat-square&logo=42&logoColor=white)
 ![Status](https://img.shields.io/badge/●%20ongoing-0d3d2a?style=flat-square&logoColor=38d9a9&color=0d3d2a&labelColor=0d1117)
 ![Paris](https://img.shields.io/badge/Paris%2C%20France-0d1117?style=flat-square&logo=googlemaps&logoColor=4A7FD4) -->
