@@ -8,9 +8,9 @@
 
 ![](https://img.shields.io/badge/42%20Paris-111827?style=flat-square&logo=42&logoColor=7ab3ff)
 &nbsp;&nbsp;
-![ongoing](https://img.shields.io/badge/●%20ongoing-111827?style=flat-square&logoColor=38d9a9&color=111827)
+![](https://img.shields.io/badge/●%20ongoing-111827?style=flat-square&logoColor=38d9a9&color=111827)
 &nbsp;&nbsp;
-![Paris](https://img.shields.io/badge/📍%20Paris%2C%20France-111827?style=flat-square&color=111827)
+![](https://img.shields.io/badge/📍%20Paris%2C%20France-111827?style=flat-square&color=111827)
 
 
 <a href="#"><img src="https://skillicons.dev/icons?i=c" height="36"/></a>&nbsp;
