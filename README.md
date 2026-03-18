@@ -9,6 +9,16 @@
 
 <br/>
 
+
+<div align="center">
+
+![42 Paris](https://img.shields.io/badge/-%E2%AC%A1%2042%20Paris-1a3a7a?style=flat-square&logoColor=7ab3ff)
+&nbsp;
+![ongoing](https://img.shields.io/badge/-●%20ongoing-1a4a2e?style=flat-square&logoColor=38d9a9)
+&nbsp;
+![Paris](https://img.shields.io/badge/-📍%20Paris%2C%20France-2a1a5e?style=flat-square&logoColor=a88dff)
+
+</div>
 <img src="https://img.shields.io/badge/⬡%2042%20Paris-0d1117?style=flat-square&logo=42&logoColor=7ab3ff&labelColor=0d1117&color=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/●%20ongoing-0a1f14?style=flat-square&color=0a1f14&labelColor=0a1f14&logoColor=38d9a9"/>
