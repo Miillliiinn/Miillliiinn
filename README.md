@@ -22,8 +22,43 @@
 
 ---
 
-## ▸ 42 Curriculum — Projects
+## ▸ Languages
 
+<div align="center">
+
+<!-- Carte dynamique — se met à jour automatiquement depuis tes repos publics -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmilin&layout=compact&langs_count=6&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&hide_border=false" />
+
+</div>
+
+---
+
+## ▸ GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tmilin&show_icons=true&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&count_private=true&hide_border=false&rank_icon=github" />
+
+<img height="180" src="https://streak-stats.demolab.com?user=tmilin&background=0d0d14&border=1e1e2e&ring=7c6af7&fire=f77c6a&currStreakLabel=38d9a9&sideLabels=e2e2f0&dates=6b6b8a&hide_border=false" />
+
+</div>
+
+---
+
+## ▸ Public Repos
+
+<!-- Ces cards se génèrent depuis tes repos publics — remplace les noms si besoin -->
+<div align="center">
+
+<a href="https://github.com/tmilin/cub3D">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tmilin&repo=cub3D&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false" />
+</a>
+
+<!-- Ajoute d'autres cards ici quand tu push de nouveaux repos publics :
+<a href="https://github.com/tmilin/NOM_DU_REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tmilin&repo=NOM_DU_REPO&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false" />
+</a>
+-->
 
 </div>
 
@@ -39,6 +74,34 @@
 | 10 | **Cub3D** | `C` | Raycasting engine (Wolfenstein-style) |
 
 </details>
+
+---
+
+## ▸ ft_transcendence — Final Project
+
+> Multiplayer **Pong** web app — built entirely from scratch.
+
+```
+Stack
+├── Backend    Django + Django Channels + Daphne (ASGI)
+├── Frontend   Vanilla JS SPA + HTML5 Canvas
+├── Database   PostgreSQL + Redis
+├── Auth       OAuth 2.0 (42 API) + Django sessions
+└── Infra      Docker Compose + Nginx (reverse proxy, SSL)
+```
+
+<div align="center">
+
+![Multiplayer](https://img.shields.io/badge/Online%20Multiplayer-WebSocket%2060Hz-7c6af7?style=flat-square&logo=socketdotio&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20Opponent-built--in-38d9a9?style=flat-square)
+![Octagon](https://img.shields.io/badge/Octagon%20Mode-power--ups-f77c6a?style=flat-square)
+![Tournament](https://img.shields.io/badge/Tournament-bracket-7c6af7?style=flat-square)
+![Chat](https://img.shields.io/badge/Real--time%20Chat-live-38d9a9?style=flat-square)
+![Spectator](https://img.shields.io/badge/Spectator%20Mode-enabled-f77c6a?style=flat-square)
+![XP](https://img.shields.io/badge/XP%20%26%20Leaderboard-tracked-7c6af7?style=flat-square)
+![Friends](https://img.shields.io/badge/Friends%20System-social-38d9a9?style=flat-square)
+
+</div>
 
 ---
 
