@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2a4a,50:1a2f5e,100:1a3a7a&height=220&section=header&text=Hi,%20i'm%20Thomas&fontSize=50&fontWeight=800&fontColor=ffffff&animation=scaleIn&desc=💻%20computer%20science%20student%20%C2%B7%2042%20Paris&descSize=15&descAlignY=75&descColor=ccccdd" width="100%"/>
-
+<a href="https://miillliiinn.github.io/header">
+  <img src="header-preview.png" width="100%"/>
+</a>
 <br/>
 
 ![42 Paris](https://img.shields.io/badge/42%20Paris-000000?style=for-the-badge&logo=42&logoColor=white)
