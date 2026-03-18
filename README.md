@@ -69,19 +69,7 @@
 <div align="center">
 
 <img src="langs.svg" alt="Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e" />
-
-</div>
-
----
-
-## ▸ GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Miillliiinn&show_icons=true&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&count_private=true&hide_border=false&rank_icon=github" />
-
-<img height="180" src="https://streak-stats.demolab.com?user=Miillliiinn&background=0d0d14&border=1e1e2e&ring=7c6af7&fire=f77c6a&currStreakLabel=38d9a9&sideLabels=e2e2f0&dates=6b6b8a&hide_border=false" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e" />
 
 </div>
 
