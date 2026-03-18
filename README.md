@@ -86,34 +86,6 @@ Shell        ███░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## ▸ ft_transcendence — Final Project
-
-> Multiplayer **Pong** web app — built entirely from scratch.
-
-```
-Stack
-├── Backend    Django + Django Channels + Daphne (ASGI)
-├── Frontend   Vanilla JS SPA + HTML5 Canvas
-├── Database   PostgreSQL + Redis
-├── Auth       OAuth 2.0 (42 API) + Django sessions
-└── Infra      Docker Compose + Nginx (reverse proxy, SSL)
-```
-
-<div align="center">
-
-![Multiplayer](https://img.shields.io/badge/Online%20Multiplayer-WebSocket%2060Hz-7c6af7?style=flat-square&logo=socketdotio&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20Opponent-built--in-38d9a9?style=flat-square)
-![Octagon](https://img.shields.io/badge/Octagon%20Mode-power--ups-f77c6a?style=flat-square)
-![Tournament](https://img.shields.io/badge/Tournament-bracket-7c6af7?style=flat-square)
-![Chat](https://img.shields.io/badge/Real--time%20Chat-live-38d9a9?style=flat-square)
-![Spectator](https://img.shields.io/badge/Spectator%20Mode-enabled-f77c6a?style=flat-square)
-![XP](https://img.shields.io/badge/XP%20%26%20Leaderboard-tracked-7c6af7?style=flat-square)
-![Friends](https://img.shields.io/badge/Friends%20System-social-38d9a9?style=flat-square)
-
-</div>
-
----
-
 ## ▸ GitHub Stats
 
 <div align="center">
