@@ -100,7 +100,7 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=10&color=4A7FD4&center=true&width=600&lines=🔗+malloc;⛓️‍💥+segfault;☕+coffee;🔁+repeat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=10&color=4A7FD4&center=true&width=600&lines=%F0%9F%94%97+malloc;%E2%9B%93%EF%B8%8F%E2%80%8D%F0%9F%92%A5+segfault;%E2%98%95+coffee;%F0%9F%94%81+repeat" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Miillliiinn&theme=react-dark&bg_color=0d0d14&color=4A7FD4&line=1a3a7a&point=f77c6a&hide_border=true" />
 
 
