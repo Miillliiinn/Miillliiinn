@@ -22,38 +22,8 @@
 
 ---
 
-## ▸ Languages
-
-```
-C            ████████████████████░░░░  9 projets   · libft, printf, gnl, push_swap, minitalk, fdf, philo, minishell, cub3D
-C++          ████████████░░░░░░░░░░░░  10 modules  · CPP 01–09 + ft_irc
-Python       ████████░░░░░░░░░░░░░░░░  1 projet    · ft_transcendence (Django)
-JavaScript   ██████░░░░░░░░░░░░░░░░░░  1 projet    · ft_transcendence (Vanilla JS SPA)
-Shell        ███░░░░░░░░░░░░░░░░░░░░░  scripts     · born2beroot, Inception
-```
-
----
-
 ## ▸ 42 Curriculum — Projects
 
-<div align="center">
-
-![libft](https://img.shields.io/badge/%2301%20libft-C-a8c4ff?style=for-the-badge&labelColor=111118)
-![born2beroot](https://img.shields.io/badge/%2302%20born2beroot-Shell-ffa8a8?style=for-the-badge&labelColor=111118)
-![ft_printf](https://img.shields.io/badge/%2303%20ft__printf-C-a8c4ff?style=for-the-badge&labelColor=111118)
-![get_next_line](https://img.shields.io/badge/%2304%20get__next__line-C-a8c4ff?style=for-the-badge&labelColor=111118)
-![push_swap](https://img.shields.io/badge/%2305%20push__swap-C-a8c4ff?style=for-the-badge&labelColor=111118)
-
-![minitalk](https://img.shields.io/badge/%2306%20minitalk-C-a8c4ff?style=for-the-badge&labelColor=111118)
-![fdf](https://img.shields.io/badge/%2307%20fdf-C-a8c4ff?style=for-the-badge&labelColor=111118)
-![philosophers](https://img.shields.io/badge/%2308%20philosophers-C-a8c4ff?style=for-the-badge&labelColor=111118)
-![minishell](https://img.shields.io/badge/%2309%20minishell-C-a8c4ff?style=for-the-badge&labelColor=111118)
-![cub3D](https://img.shields.io/badge/%2310%20cub3D-C-a8c4ff?style=for-the-badge&labelColor=111118)
-
-![netpractice](https://img.shields.io/badge/%2311%20netpractice-Networking-38d9a9?style=for-the-badge&labelColor=111118)
-![CPP](https://img.shields.io/badge/%2312%20CPP%2001--09-C++-c4a8ff?style=for-the-badge&labelColor=111118)
-![Inception](https://img.shields.io/badge/%2313%20Inception-Docker-a8d8ff?style=for-the-badge&labelColor=111118)
-![ft_irc](https://img.shields.io/badge/%2314%20ft__irc-C++-c4a8ff?style=for-the-badge&labelColor=111118)
 
 </div>
 
@@ -66,21 +36,7 @@ Shell        ███░░░░░░░░░░░░░░░░░░░�
 
 | # | Projet | Langage | Sujet |
 |:--:|--------|---------|-------|
-| 01 | **libft** | `C` | Standard library reimplementation |
-| 02 | **born2beroot** | `Shell` | System administration, VM, security |
-| 03 | **ft_printf** | `C` | Variadic functions, formatted output |
-| 04 | **get_next_line** | `C` | File descriptors, static variables |
-| 05 | **push_swap** | `C` | Sorting algorithms, stack operations |
-| 06 | **minitalk** | `C` | UNIX signals, inter-process communication |
-| 07 | **fdf** | `C` | 3D wireframe rendering, MiniLibX |
-| 08 | **philosophers** | `C` | Threading, mutexes, deadlock prevention |
-| 09 | **minishell** | `C` | Shell interpreter, parsing, processes |
 | 10 | **cub3D** | `C` | Raycasting engine (Wolfenstein-style) |
-| 11 | **netpractice** | `—` | Networking, IP, subnetting, routing |
-| 12 | **CPP 01–09** | `C++` | OOP, templates, STL, design patterns |
-| 13 | **Inception** | `Docker` | Docker Compose, Nginx, WordPress, MariaDB |
-| 14 | **ft_irc** | `C++` | IRC server, TCP sockets, RFC 1459 |
-| 15 | **ft_transcendence** | `Python / JS / Docker` | Full-stack web app |
 
 </details>
 
