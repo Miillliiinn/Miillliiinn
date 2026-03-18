@@ -9,9 +9,9 @@
 
 <br/>
 
-![42 Paris](https://img.shields.io/badge/42%20Paris-000000?style=for-the-badge&logo=42&logoColor=white)
-![Status](https://img.shields.io/badge/status-ongoing-38d9a9?style=for-the-badge)
-![Paris](https://img.shields.io/badge/Paris%2C%20France-7c6af7?style=for-the-badge&logo=googlemaps&logoColor=white)
+![42 Paris](https://img.shields.io/badge/42%20Paris-0d1117?style=flat-square&logo=42&logoColor=white)
+![Status](https://img.shields.io/badge/●%20ongoing-0d3d2a?style=flat-square&logoColor=38d9a9&color=0d3d2a&labelColor=0d1117)
+![Paris](https://img.shields.io/badge/Paris%2C%20France-0d1117?style=flat-square&logo=googlemaps&logoColor=4A7FD4)
 
 <br/>
 
