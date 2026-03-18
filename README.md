@@ -10,12 +10,12 @@
 
 <br/>
 
-![C](https://img.shields.io/badge/C-a8c4ff?style=flat-square&logo=c&logoColor=0d0d14)
-![C++](https://img.shields.io/badge/C++-c4a8ff?style=flat-square&logo=cplusplus&logoColor=0d0d14)
-![Python](https://img.shields.io/badge/Python-a8ffdc?style=flat-square&logo=python&logoColor=0d0d14)
-![JavaScript](https://img.shields.io/badge/JavaScript-fff0a8?style=flat-square&logo=javascript&logoColor=0d0d14)
-![Shell](https://img.shields.io/badge/Shell-ffa8a8?style=flat-square&logo=gnubash&logoColor=0d0d14)
-![Docker](https://img.shields.io/badge/Docker-a8d8ff?style=flat-square&logo=docker&logoColor=0d0d14)
+<a href="#"><img src="https://skillicons.dev/icons?i=c" height="36" alt="C" title="C"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="36" alt="C++" title="C++"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=python" height="36" alt="Python" title="Python"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=js" height="36" alt="JavaScript" title="JavaScript"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=bash" height="36" alt="Shell" title="Shell"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" title="Docker"/></a>
 
 </div>
 
@@ -23,44 +23,48 @@
 
 ## ▸ Skills
 
-**Systems & Low-level**
+<div align="center">
 
-![memory management](https://img.shields.io/badge/memory%20management-1e1e2e?style=flat-square)
-![file descriptors](https://img.shields.io/badge/file%20descriptors-1e1e2e?style=flat-square)
-![signals](https://img.shields.io/badge/signals-1e1e2e?style=flat-square)
-![processes](https://img.shields.io/badge/processes-1e1e2e?style=flat-square)
-![threads](https://img.shields.io/badge/threads-1e1e2e?style=flat-square)
-![mutexes](https://img.shields.io/badge/mutexes-1e1e2e?style=flat-square)
-![sockets](https://img.shields.io/badge/sockets-1e1e2e?style=flat-square)
-![raycasting](https://img.shields.io/badge/raycasting-1e1e2e?style=flat-square)
-![sorting algorithms](https://img.shields.io/badge/sorting%20algorithms-1e1e2e?style=flat-square)
+### 🖥️ Systems & Low-level
 
-**Object-Oriented Programming**
+![memory management](https://img.shields.io/badge/memory%20management-0C447C?style=flat-square&logoColor=white)
+![file descriptors](https://img.shields.io/badge/file%20descriptors-0C447C?style=flat-square)
+![signals](https://img.shields.io/badge/signals-0C447C?style=flat-square)
+![processes](https://img.shields.io/badge/processes-0C447C?style=flat-square)
+![threads](https://img.shields.io/badge/threads-0C447C?style=flat-square)
+![mutexes](https://img.shields.io/badge/mutexes-0C447C?style=flat-square)
+![sockets](https://img.shields.io/badge/sockets-0C447C?style=flat-square)
+![raycasting](https://img.shields.io/badge/raycasting-0C447C?style=flat-square)
+![sorting algorithms](https://img.shields.io/badge/sorting%20algorithms-0C447C?style=flat-square)
 
-![C++ OOP](https://img.shields.io/badge/C++%20OOP-1e1e2e?style=flat-square)
-![templates](https://img.shields.io/badge/templates-1e1e2e?style=flat-square)
-![STL](https://img.shields.io/badge/STL-1e1e2e?style=flat-square)
-![design patterns](https://img.shields.io/badge/design%20patterns-1e1e2e?style=flat-square)
-![RAII](https://img.shields.io/badge/RAII-1e1e2e?style=flat-square)
-![operator overloading](https://img.shields.io/badge/operator%20overloading-1e1e2e?style=flat-square)
+### 🧩 Object-Oriented Programming
 
-**Web & Full-stack**
+![C++ OOP](https://img.shields.io/badge/C++%20OOP-534AB7?style=flat-square)
+![templates](https://img.shields.io/badge/templates-534AB7?style=flat-square)
+![STL](https://img.shields.io/badge/STL-534AB7?style=flat-square)
+![design patterns](https://img.shields.io/badge/design%20patterns-534AB7?style=flat-square)
+![RAII](https://img.shields.io/badge/RAII-534AB7?style=flat-square)
+![operator overloading](https://img.shields.io/badge/operator%20overloading-534AB7?style=flat-square)
 
-![Django](https://img.shields.io/badge/Django-1e1e2e?style=flat-square&logo=django&logoColor=a8ffdc)
-![WebSocket](https://img.shields.io/badge/WebSocket-1e1e2e?style=flat-square)
-![REST API](https://img.shields.io/badge/REST%20API-1e1e2e?style=flat-square)
-![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-1e1e2e?style=flat-square)
-![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-1e1e2e?style=flat-square&logo=html5&logoColor=ffa8a8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e2e?style=flat-square&logo=postgresql&logoColor=a8c4ff)
-![Redis](https://img.shields.io/badge/Redis-1e1e2e?style=flat-square&logo=redis&logoColor=ffa8a8)
-![Nginx](https://img.shields.io/badge/Nginx-1e1e2e?style=flat-square&logo=nginx&logoColor=a8ffdc)
+### 🌐 Web & Full-stack
 
-**DevOps & Infrastructure**
+![Django](https://img.shields.io/badge/Django-0F6E56?style=flat-square&logo=django&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-0F6E56?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-0F6E56?style=flat-square)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-0F6E56?style=flat-square)
+![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-0F6E56?style=flat-square&logo=html5&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F6E56?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0F6E56?style=flat-square&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-0F6E56?style=flat-square&logo=nginx&logoColor=white)
 
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-1e1e2e?style=flat-square&logo=docker&logoColor=a8d8ff)
-![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-1e1e2e?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux%20admin-1e1e2e?style=flat-square&logo=linux&logoColor=fff0a8)
-![Networking](https://img.shields.io/badge/networking%20%2F%20IP%20%2F%20subnetting-1e1e2e?style=flat-square)
+### ⚙️ DevOps & Infrastructure
+
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-854F0B?style=flat-square&logo=docker&logoColor=white)
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-854F0B?style=flat-square)
+![Linux admin](https://img.shields.io/badge/Linux%20admin-854F0B?style=flat-square&logo=linux&logoColor=white)
+![networking / IP / subnetting](https://img.shields.io/badge/networking%20%2F%20IP%20%2F%20subnetting-854F0B?style=flat-square)
+
+</div>
 
 ---
 
@@ -77,13 +81,6 @@
 
 ## ▸ Public Repos
 
-<!--
-  📌 AUTOMATIQUE — ces cards lisent tes repos publics en temps réel.
-  Pour qu'ils apparaissent ici, épingle-les sur ton profil GitHub :
-  github.com/Miillliiinn → "Customize your profile" → "Pin a repository"
-  Puis remplace les noms de repos ci-dessous par les tiens.
--->
-
 <div align="center">
 
 <a href="https://github.com/Miillliiinn/cub3D">
@@ -91,11 +88,11 @@
 </a>
 
 <!--
-  Quand tu push un nouveau repo public, duplique ce bloc :
-
+*futur repo :*******************************************************************************************************************************************************************************************************
 <a href="https://github.com/Miillliiinn/NOM_DU_REPO">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=NOM_DU_REPO&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false" />
 </a>
+********************************************************************************************************************************************************************************************************************
 -->
 
 </div>
@@ -107,7 +104,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Miillliiinn&color=7c6af7&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f77c6a,50:38d9a9,100:7c6af7&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
 
 </div>
