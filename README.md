@@ -1,34 +1,54 @@
-# tmilin — 42 Paris
+<div align="center">
 
-> _Systems programmer by training. Full-stack developer by necessity._
+<!-- ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6af7,50:38d9a9,100:f77c6a&height=200&section=header&text=tmilin&fontSize=80&fontWeight=800&fontColor=ffffff&animation=fadeIn&desc=systems%20programmer%20by%20training%20·%20full-stack%20dev%20by%20necessity&descSize=16&descAlignY=75&descColor=ccccdd" width="100%"/>
+
+<!-- BADGES -->
+<br/>
+
+![42 Paris](https://img.shields.io/badge/42%20Paris-000000?style=for-the-badge&logo=42&logoColor=white)
+![Status](https://img.shields.io/badge/status-ongoing-38d9a9?style=for-the-badge)
+![Location](https://img.shields.io/badge/Paris%2C%20France-7c6af7?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
+
+<!-- LANGUAGE BADGES ANIMATED (pulsing via shields) -->
+![C](https://img.shields.io/badge/C-a8c4ff?style=flat-square&logo=c&logoColor=0a0a0f)
+![C++](https://img.shields.io/badge/C++-c4a8ff?style=flat-square&logo=cplusplus&logoColor=0a0a0f)
+![Python](https://img.shields.io/badge/Python-a8ffdc?style=flat-square&logo=python&logoColor=0a0a0f)
+![JavaScript](https://img.shields.io/badge/JavaScript-fff0a8?style=flat-square&logo=javascript&logoColor=0a0a0f)
+![Shell](https://img.shields.io/badge/Shell-ffa8a8?style=flat-square&logo=gnubash&logoColor=0a0a0f)
+![Docker](https://img.shields.io/badge/Docker-a8d8ff?style=flat-square&logo=docker&logoColor=0a0a0f)
+
+</div>
 
 ---
 
-## 42 Curriculum — Projects
+## ▸ 42 Curriculum — 15 Projects
 
 | # | Project | Language | Topic |
 |---|---------|----------|-------|
-| 01 | **libft** | C | Standard library reimplementation |
-| 02 | **born2beroot** | Shell / Linux | System administration, VM, security |
-| 03 | **ft_printf** | C | Variadic functions, formatted output |
-| 04 | **get_next_line** | C | File descriptors, static variables |
-| 05 | **push_swap** | C | Sorting algorithms, stack operations |
-| 06 | **minitalk** | C | UNIX signals, inter-process communication |
-| 07 | **fdf** | C | 3D wireframe rendering, MiniLibX |
-| 08 | **philosophers** | C | Threading, mutexes, deadlock prevention |
-| 09 | **minishell** | C | Shell interpreter, parsing, processes |
-| 10 | **cub3d** | C | Raycasting engine (Wolfenstein-style) |
-| 11 | **netpractice** | — | Networking, IP, subnetting, routing |
-| 12 | **CPP 01–09** | C++ | OOP, templates, STL, design patterns |
-| 13 | **Inception** | Docker / Shell | Docker Compose, nginx, WordPress, MariaDB |
-| 14 | **ft_irc** | C++ | IRC server, TCP sockets, RFC 1459 |
-| 15 | **ft_transcendence** | Python / JS / Docker | Full-stack web app — see below |
+| 01 | **libft** | `C` | Standard library reimplementation |
+| 02 | **born2beroot** | `Shell` | System administration, VM, security |
+| 03 | **ft_printf** | `C` | Variadic functions, formatted output |
+| 04 | **get_next_line** | `C` | File descriptors, static variables |
+| 05 | **push_swap** | `C` | Sorting algorithms, stack operations |
+| 06 | **minitalk** | `C` | UNIX signals, inter-process communication |
+| 07 | **fdf** | `C` | 3D wireframe rendering, MiniLibX |
+| 08 | **philosophers** | `C` | Threading, mutexes, deadlock prevention |
+| 09 | **minishell** | `C` | Shell interpreter, parsing, processes |
+| 10 | **cub3D** | `C` | Raycasting engine (Wolfenstein-style) |
+| 11 | **netpractice** | `—` | Networking, IP, subnetting, routing |
+| 12 | **CPP 01–09** | `C++` | OOP, templates, STL, design patterns |
+| 13 | **Inception** | `Docker` | Docker Compose, Nginx, WordPress, MariaDB |
+| 14 | **ft_irc** | `C++` | IRC server, TCP sockets, RFC 1459 |
+| 15 | **ft_transcendence** | `Python / JS / Docker` | Full-stack web app — see below |
 
 ---
 
-## ft_transcendence — Final Project
+## ▸ ft_transcendence — Final Project
 
-A full-stack multiplayer Pong web application built from scratch.
+> Full-stack multiplayer **Pong** web application built from scratch.
 
 ```
 Stack
@@ -39,51 +59,90 @@ Stack
 └── Infra      Docker Compose + Nginx (reverse proxy, SSL)
 ```
 
-**Features:** online multiplayer (WebSocket, 60 tick/s) · AI opponent · octagon mode with power-ups ·
-tournament bracket · friends system · real-time chat · spectator mode · XP & leaderboard
+**Features:**
+
+![WebSocket](https://img.shields.io/badge/Online%20Multiplayer-WebSocket%2060Hz-7c6af7?style=flat-square)
+![AI](https://img.shields.io/badge/AI%20Opponent-built--in-38d9a9?style=flat-square)
+![Octagon](https://img.shields.io/badge/Octagon%20Mode-power--ups-f77c6a?style=flat-square)
+![Tournament](https://img.shields.io/badge/Tournament-bracket-7c6af7?style=flat-square)
+![Chat](https://img.shields.io/badge/Real--time%20Chat-live-38d9a9?style=flat-square)
+![Spectator](https://img.shields.io/badge/Spectator%20Mode-enabled-f77c6a?style=flat-square)
+![XP](https://img.shields.io/badge/XP%20%26%20Leaderboard-tracked-7c6af7?style=flat-square)
 
 ---
 
-## Languages
+## ▸ Languages
+
+<div align="center">
+
+<!-- GitHub Readme Stats — Language Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmilin&layout=compact&theme=midnight-purple&bg_color=0a0a0f&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&hide_border=false&langs_count=6" height="160"/>
+
+</div>
 
 ```
-C            ████████████████████░░░░  used in 9 projects
-C++          ████████████░░░░░░░░░░░░  used in 10 modules (CPP 01-09 + ft_irc)
+C            ████████████████████░░░░  9 projects
+C++          ████████████░░░░░░░░░░░░  10 modules (CPP 01–09 + ft_irc)
 Python       ████████░░░░░░░░░░░░░░░░  ft_transcendence (Django)
 JavaScript   ██████░░░░░░░░░░░░░░░░░░  ft_transcendence (Vanilla JS SPA)
 Shell        ███░░░░░░░░░░░░░░░░░░░░░  born2beroot, Inception, scripts
-HTML / CSS   ██░░░░░░░░░░░░░░░░░░░░░░  ft_transcendence (frontend)
 ```
 
 ---
 
-## Skills by Category
+## ▸ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tmilin&show_icons=true&theme=midnight-purple&bg_color=0a0a0f&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&count_private=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tmilin&theme=midnight-purple&background=0a0a0f&border=1e1e2e&ring=7c6af7&fire=f77c6a&currStreakLabel=38d9a9&sideLabels=e2e2f0&dates=6b6b8a" height="165"/>
+
+</div>
+
+---
+
+## ▸ Skills
 
 **Systems & Low-level**
-`memory management` `file descriptors` `signals` `processes` `threads` `mutexes`
-`sockets` `IRC protocol` `raycasting` `sorting algorithms`
+
+`memory management` `file descriptors` `signals` `processes` `threads` `mutexes` `sockets` `IRC protocol` `raycasting` `sorting algorithms`
 
 **Object-Oriented Programming**
+
 `C++ OOP` `templates` `STL` `design patterns` `operator overloading` `RAII`
 
 **Web & Full-stack**
-`Django` `REST API` `WebSocket` `OAuth 2.0` `HTML5 Canvas` `Vanilla JS SPA`
-`PostgreSQL` `Redis` `Nginx` `Docker`
+
+`Django` `REST API` `WebSocket` `OAuth 2.0` `HTML5 Canvas` `Vanilla JS SPA` `PostgreSQL` `Redis` `Nginx` `Docker`
 
 **DevOps & Infrastructure**
+
 `Docker Compose` `Nginx reverse proxy` `SSL/TLS` `Linux administration` `networking / IP / subnetting`
 
 ---
 
-## At a Glance
+## ▸ At a Glance
 
-```
-Total projects   15+
-Languages        C  ·  C++  ·  Python  ·  JavaScript  ·  Shell
-Paradigms        Procedural  ·  OOP  ·  Event-driven  ·  Async
-Topics covered   Systems  ·  Algorithms  ·  Web  ·  DevOps  ·  Networking
-```
+<div align="center">
+
+| | |
+|---|---|
+| **Total projects** | 15+ |
+| **Languages** | C · C++ · Python · JavaScript · Shell |
+| **Paradigms** | Procedural · OOP · Event-driven · Async |
+| **Topics** | Systems · Algorithms · Web · DevOps · Networking |
+
+</div>
 
 ---
 
-_42 Paris — ongoing_
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f77c6a,50:38d9a9,100:7c6af7&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+![42 Paris](https://img.shields.io/badge/42%20Paris-ongoing-000000?style=flat-square&logo=42&logoColor=white)
+&nbsp;
+![Profile views](https://komarev.com/ghpvc/?username=tmilin&color=7c6af7&style=flat-square&label=profile+views)
+
+</div>
