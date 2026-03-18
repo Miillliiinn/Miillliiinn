@@ -36,7 +36,7 @@
 
 | # | Projet | Langage | Sujet |
 |:--:|--------|---------|-------|
-| 10 | **cub3D** | `C` | Raycasting engine (Wolfenstein-style) |
+| 10 | **Cub3D** | `C` | Raycasting engine (Wolfenstein-style) |
 
 </details>
 
