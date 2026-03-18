@@ -21,40 +21,6 @@
 
 ---
 
-## ▸ Languages
-
-<div align="center">
-
-<!--
-  SVG généré par github-profile-summary-cards
-  → barres colorées animées, se met à jour automatiquement depuis tes repos publics
--->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e" />
- <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e" /> -->
-
-</div>
-
----
-
-## ▸ Public Repos
-
-<div align="center">
-
-<a href="https://github.com/Miillliiinn/cub3D">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=cub3D&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false" />
-</a>
-
-<!--
-Nouveau repo public :
-<a href="https://github.com/Miillliiinn/NOM_DU_REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=NOM_DU_REPO&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false" />
-</a>
--->
-
-</div>
-
----
-
 ## ▸ Skills
 
 **Systems & Low-level**
@@ -96,6 +62,39 @@ Nouveau repo public :
 ![Linux](https://img.shields.io/badge/Linux%20admin-1e1e2e?style=flat-square&logo=linux&logoColor=fff0a8)
 ![Networking](https://img.shields.io/badge/networking%20%2F%20IP%20%2F%20subnetting-1e1e2e?style=flat-square)
 
+---
+
+## ▸ Languages
+
+<div align="center">
+
+<!--
+  SVG généré par github-profile-summary-cards
+  → barres colorées animées, se met à jour automatiquement depuis tes repos publics
+-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e" />
+ <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e" /> -->
+
+</div>
+
+---
+
+## ▸ Public Repos
+
+<div align="center">
+
+<a href="https://github.com/Miillliiinn/cub3D">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=cub3D&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false" />
+</a>
+
+<!--
+Nouveau repo public :
+<a href="https://github.com/Miillliiinn/NOM_DU_REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=NOM_DU_REPO&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false" />
+</a>
+-->
+
+</div>
 ---
 
 <div align="center">
