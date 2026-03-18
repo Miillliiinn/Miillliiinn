@@ -10,11 +10,11 @@
   <text x="24" y="66" class="lng">C</text>
   <rect x="90" y="59" width="340" height="6" rx="3" fill="#1e1e2e"/>
   <rect x="90" y="59" width="310" height="6" rx="3" fill="#a8c4ff"/>
-  <text x="471" y="66" class="lbl" text-anchor="end">82.7%</text>
+  <text x="471" y="66" class="lbl" text-anchor="end">81.7%</text>
   <text x="24" y="98" class="lng">Makefile</text>
   <rect x="90" y="91" width="340" height="6" rx="3" fill="#1e1e2e"/>
   <rect x="90" y="91" width="38" height="6" rx="3" fill="#d4a8ff"/>
-  <text x="471" y="98" class="lbl" text-anchor="end">10.1%</text>
+  <text x="471" y="98" class="lbl" text-anchor="end">10.0%</text>
   <text x="24" y="130" class="lng">Roff</text>
   <rect x="90" y="123" width="340" height="6" rx="3" fill="#1e1e2e"/>
   <rect x="90" y="123" width="13" height="6" rx="3" fill="#a8ffdc"/>
@@ -22,13 +22,13 @@
   <text x="24" y="162" class="lng">TypeScript</text>
   <rect x="90" y="155" width="340" height="6" rx="3" fill="#1e1e2e"/>
   <rect x="90" y="155" width="8" height="6" rx="3" fill="#a8e4ff"/>
-  <text x="471" y="162" class="lbl" text-anchor="end">2.3%</text>
-  <text x="24" y="194" class="lng">Shell</text>
+  <text x="471" y="162" class="lbl" text-anchor="end">2.2%</text>
+  <text x="24" y="194" class="lng">HTML</text>
   <rect x="90" y="187" width="340" height="6" rx="3" fill="#1e1e2e"/>
-  <rect x="90" y="187" width="3" height="6" rx="3" fill="#ffa8a8"/>
-  <text x="471" y="194" class="lbl" text-anchor="end">1.0%</text>
-  <text x="24" y="226" class="lng">Nix</text>
+  <rect x="90" y="187" width="5" height="6" rx="3" fill="#ffcba8"/>
+  <text x="471" y="194" class="lbl" text-anchor="end">1.6%</text>
+  <text x="24" y="226" class="lng">Shell</text>
   <rect x="90" y="219" width="340" height="6" rx="3" fill="#1e1e2e"/>
-  <rect x="90" y="219" width="1" height="6" rx="3" fill="#a8d8ff"/>
-  <text x="471" y="226" class="lbl" text-anchor="end">0.4%</text>
+  <rect x="90" y="219" width="3" height="6" rx="3" fill="#ffa8a8"/>
+  <text x="471" y="226" class="lbl" text-anchor="end">1.0%</text>
 </svg>
