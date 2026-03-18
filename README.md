@@ -53,17 +53,6 @@ Nouveau repo public :
 
 </div>
 
-<details>
-<summary><b>📋 Voir tous les projets en détail</b></summary>
-
-<br/>
-
-| # | Projet | Langage | Sujet |
-|:--:|--------|---------|-------|
-| 10 | **Cub3D** | `C` | Raycasting engine (Wolfenstein-style) |
-
-</details>
-
 ---
 
 ## ▸ Skills
