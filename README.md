@@ -8,16 +8,12 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2a4a,50:1a2f5e,100:1a3a7a&height=220&section=header&text=Hi,%20i'm%20Thomas&fontSize=50&fontWeight=800&fontColor=ffffff&animation=scaleIn&desc=💻%20computer%20science%20student%20%C2%B7%2042%20Paris&descSize=15&descAlignY=75&descColor=ccccdd" width="100%"/> -->
 
 <br/>
-<div align="center">
 
+<img src="https://img.shields.io/badge/⬡%2042%20Paris-0d1117?style=flat-square&logo=42&logoColor=7ab3ff&labelColor=0d1117&color=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/42%20Paris-1e2a4a?style=flat-square&logo=42&logoColor=4a9eff&labelColor=1e2a4a"/>
+<img src="https://img.shields.io/badge/●%20ongoing-0a1f14?style=flat-square&color=0a1f14&labelColor=0a1f14&logoColor=38d9a9"/>
 &nbsp;
-<img src="https://img.shields.io/badge/●_ongoing-1e2a4a?style=flat-square&color=1e2a4a&logoColor=38d9a9&labelColor=0a1628"/>
-&nbsp;
-<img src="https://img.shields.io/badge/📍_Paris-1e2a4a?style=flat-square&color=1e2a4a&labelColor=0a1628"/>
-
-</div>
+<img src="https://img.shields.io/badge/📍%20Paris%2C%20France-0d1117?style=flat-square&color=0d1117&labelColor=0d1117&logoColor=a88dff"/>
 <!-- ![42 Paris](https://img.shields.io/badge/42%20Paris-0d1117?style=flat-square&logo=42&logoColor=white)
 ![Status](https://img.shields.io/badge/●%20ongoing-0d3d2a?style=flat-square&logoColor=38d9a9&color=0d3d2a&labelColor=0d1117)
 ![Paris](https://img.shields.io/badge/Paris%2C%20France-0d1117?style=flat-square&logo=googlemaps&logoColor=4A7FD4) -->
