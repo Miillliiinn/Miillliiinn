@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6af7,50:38d9a9,100:f77c6a&height=220&section=header&text=Milin&fontSize=90&fontWeight=800&fontColor=ffffff&animation=fadeIn&desc=systems%20programmer%20by%20training%20%C2%B7%20full-stack%20dev%20by%20necessity&descSize=15&descAlignY=75&descColor=ccccdd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6af7,50:38d9a9,100:f77c6a&height=220&section=header&text=tmilin&fontSize=90&fontWeight=800&fontColor=ffffff&animation=fadeIn&desc=systems%20programmer%20by%20training%20%C2%B7%20full-stack%20dev%20by%20necessity&descSize=15&descAlignY=75&descColor=ccccdd" width="100%"/>
 
 <br/>
 
@@ -68,18 +68,33 @@
 
 <div align="center">
 
-<!--
-  SVG généré par github-profile-summary-cards
-  → barres colorées animées, se met à jour automatiquement depuis tes repos publics
--->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e" />
- <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e" /> -->
+<img src="langs.svg" alt="Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e" />
+
+</div>
+
+---
+
+## ▸ GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Miillliiinn&show_icons=true&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&count_private=true&hide_border=false&rank_icon=github" />
+
+<img height="180" src="https://streak-stats.demolab.com?user=Miillliiinn&background=0d0d14&border=1e1e2e&ring=7c6af7&fire=f77c6a&currStreakLabel=38d9a9&sideLabels=e2e2f0&dates=6b6b8a&hide_border=false" />
 
 </div>
 
 ---
 
 ## ▸ Public Repos
+
+<!--
+  📌 AUTOMATIQUE — ces cards lisent tes repos publics en temps réel.
+  Pour qu'ils apparaissent ici, épingle-les sur ton profil GitHub :
+  github.com/Miillliiinn → "Customize your profile" → "Pin a repository"
+  Puis remplace les noms de repos ci-dessous par les tiens.
+-->
 
 <div align="center">
 
@@ -88,13 +103,15 @@
 </a>
 
 <!--
-Nouveau repo public :
+  Quand tu push un nouveau repo public, duplique ce bloc :
+
 <a href="https://github.com/Miillliiinn/NOM_DU_REPO">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=NOM_DU_REPO&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false" />
 </a>
 -->
 
 </div>
+
 ---
 
 <div align="center">
@@ -102,5 +119,7 @@ Nouveau repo public :
 ![Profile views](https://komarev.com/ghpvc/?username=Miillliiinn&color=7c6af7&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f77c6a,50:38d9a9,100:7c6af7&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
 
 </div>
