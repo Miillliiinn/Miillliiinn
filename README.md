@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4A7FD4&center=true&width=600&lines=Hi+I'm+Thomas;42+Paris+Student;Systems+%26+Low-level+Dev" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2a4a,50:1a2f5e,100:1a3a7a&height=220&section=header&text=Hi,%20i'm%20Thomas&fontSize=50&fontWeight=800&fontColor=ffffff&animation=scaleIn&desc=💻%20computer%20science%20student%20%C2%B7%2042%20Paris&descSize=15&descAlignY=75&descColor=ccccdd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2a4a,50:1a2f5e,100:1a3a7a&height=160&section=header&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hi+I'm+Thomas+👋;42+Paris+Student;Systems+%26+Low-level+Dev;From+bits+to+browsers" />
 
 <br/>
 
