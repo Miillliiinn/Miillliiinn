@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Miillliiinn&theme=react-dark&bg_color=0d0d14&color=4A7FD4&line=1a3a7a&point=f77c6a&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Miillliiinn&theme=dark&border_color=1a2f5e&ring=4A7FD4&fire=f77c6a&currStreakLabel=4A7FD4" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4A7FD4&center=true&width=600&lines=Hi+I'm+Thomas;42+Paris+Student;Systems+%26+Low-level+Dev" />
 
