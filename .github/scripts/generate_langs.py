@@ -49,7 +49,7 @@ COLOR_MAP = {
     "Dockerfile": "#a8d8ff",
     "Go":         "#a8fff0",
     "Rust":       "#ffb8a8",
-   # "PHP":        "#c4a8ff",
+    "PHP":        "#c4a8ff",
 }
 DEFAULT_COLORS = ["#a8c4ff","#c4a8ff","#a8ffdc","#fff0a8","#ffa8a8","#a8d8ff"]
 
