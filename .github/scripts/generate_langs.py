@@ -49,8 +49,10 @@ COLOR_MAP = {
     "Dockerfile": "#a8d8ff",
     "Go":         "#a8fff0",
     "Rust":       "#ffb8a8",
+    "PHP":        "#c4a8ff",
 }
 DEFAULT_COLORS = ["#a8c4ff","#c4a8ff","#a8ffdc","#fff0a8","#ffa8a8","#a8d8ff"]
+
 DISPLAY_NAME = {
     "JavaScript": "JS",
     "TypeScript": "TS",
@@ -58,9 +60,6 @@ DISPLAY_NAME = {
     "Makefile":   "Make",
 }
 
-# remplace la ligne display par :
-display = DISPLAY_NAME.get(lang, lang)
-display = display if len(display) <= 12 else display[:11] + "…"
 # ── 5. Generate SVG ──────────────────────────────────────────────────────────
 
 ROW_H   = 32
@@ -87,9 +86,9 @@ for i, (lang, count) in enumerate(sorted_langs):
     y_center = PAD_TOP + i * ROW_H + 10
     bar_fill = int((count / max_bytes) * MAX_BAR)
     color = COLOR_MAP.get(lang, DEFAULT_COLORS[i % len(DEFAULT_COLORS)])
-
-    # Shorten long label
-    display = lang if len(lang) <= 12 else lang[:11] + "…"
+    
+    display = DISPLAY_NAME.get(lang, lang)
+    display = display if len(display) <= 12 else display[:11] + "…"
 
     lines.append(f'  <text x="24" y="{y_center + 4}" class="lng">{display}</text>')
     lines.append(f'  <rect x="{BAR_X}" y="{y_center - 3}" width="{BAR_W}" height="6" rx="3" fill="#1e1e2e"/>')
