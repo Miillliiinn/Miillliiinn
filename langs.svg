@@ -9,9 +9,9 @@
   <line x1="24" y1="36" x2="471" y2="36" stroke="#1e1e2e" stroke-width="1"/>
   <text x="24" y="66" class="lng">PHP</text>
   <rect x="90" y="59" width="340" height="6" rx="3" fill="#1e1e2e"/>
-  <rect x="90" y="59" width="310" height="6" rx="3" fill="#a8c4ff"/>
+  <rect x="90" y="59" width="310" height="6" rx="3" fill="#c4a8ff"/>
   <text x="471" y="66" class="lbl" text-anchor="end">69.1%</text>
-  <text x="24" y="98" class="lng">JavaScript</text>
+  <text x="24" y="98" class="lng">JS</text>
   <rect x="90" y="91" width="340" height="6" rx="3" fill="#1e1e2e"/>
   <rect x="90" y="91" width="81" height="6" rx="3" fill="#fff0a8"/>
   <text x="471" y="98" class="lbl" text-anchor="end">18.3%</text>
@@ -27,7 +27,7 @@
   <rect x="90" y="187" width="340" height="6" rx="3" fill="#1e1e2e"/>
   <rect x="90" y="187" width="3" height="6" rx="3" fill="#c4a8ff"/>
   <text x="471" y="194" class="lbl" text-anchor="end">0.7%</text>
-  <text x="24" y="226" class="lng">Makefile</text>
+  <text x="24" y="226" class="lng">Make</text>
   <rect x="90" y="219" width="340" height="6" rx="3" fill="#1e1e2e"/>
   <rect x="90" y="219" width="1" height="6" rx="3" fill="#d4a8ff"/>
   <text x="471" y="226" class="lbl" text-anchor="end">0.3%</text>
