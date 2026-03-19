@@ -51,7 +51,16 @@ COLOR_MAP = {
     "Rust":       "#ffb8a8",
 }
 DEFAULT_COLORS = ["#a8c4ff","#c4a8ff","#a8ffdc","#fff0a8","#ffa8a8","#a8d8ff"]
+DISPLAY_NAME = {
+    "JavaScript": "JS",
+    "TypeScript": "TS",
+    "Dockerfile": "Docker",
+    "Makefile":   "Make",
+}
 
+# remplace la ligne display par :
+display = DISPLAY_NAME.get(lang, lang)
+display = display if len(display) <= 12 else display[:11] + "…"
 # ── 5. Generate SVG ──────────────────────────────────────────────────────────
 
 ROW_H   = 32
