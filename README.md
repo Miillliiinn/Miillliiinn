@@ -97,7 +97,7 @@
 
 ---
 
-## ▸ Public Repos
+## ▸ Public 42 project Repos
 
 <div align="center">
 
