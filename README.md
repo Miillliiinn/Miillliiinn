@@ -91,7 +91,7 @@
 <div align="center">
 
 <img src="langs.svg" alt="Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e&cache_seconds=3" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e&cache_seconds=2" />
 
 </div>
 
@@ -119,6 +119,10 @@
 
 <a href="https://github.com/Miillliiinn/IRC">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=IRC&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=1" />
+</a>
+
+<a href="https://github.com/Miillliiinn/Minishell">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=Minishell&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=1" />
 </a>
 
 <!--
