@@ -91,7 +91,7 @@
 <div align="center">
 
 <img src="langs.svg" alt="Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e&cache_seconds=4" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e&cache_seconds=3" />
 
 </div>
 
