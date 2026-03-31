@@ -101,16 +101,28 @@
 
 <div align="center">
 
-[![FDF](https://img.shields.io/badge/FDF-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/FDF)
-[![cub3D](https://img.shields.io/badge/cub3D-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/cub3D)
-[![Push--Swap](https://img.shields.io/badge/Push--Swap-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/Push-Swap)
-[![Philosophers](https://img.shields.io/badge/Philosophers-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/Philosophers)
 
-[![Minishell](https://img.shields.io/badge/Minishell-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/Minishell)
-[![IRC](https://img.shields.io/badge/IRC-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/IRC)
-[![CPP](https://img.shields.io/badge/CPP-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/CPP)
-[![Inception](https://img.shields.io/badge/Inception-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/Inception)
-[![Transcendance](https://img.shields.io/badge/Transcendance-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/Transcendance)
+[![FDF](https://img.shields.io/badge/FDF-111827?style=flat-square&logo=github&logoColor=7c6af7)](https://github.com/Miillliiinn/FDF)
+&nbsp;&nbsp;
+[![cub3D](https://img.shields.io/badge/cub3D-111827?style=flat-square&logo=github&logoColor=7c6af7)](https://github.com/Miillliiinn/cub3D)
+&nbsp;&nbsp;
+[![Push--Swap](https://img.shields.io/badge/Push--Swap-111827?style=flat-square&logo=github&logoColor=7c6af7)](https://github.com/Miillliiinn/Push-Swap)
+&nbsp;&nbsp;
+[![Philosophers](https://img.shields.io/badge/Philosophers-111827?style=flat-square&logo=github&logoColor=7c6af7)](https://github.com/Miillliiinn/Philosophers)
+
+<br/>
+
+[![Minishell](https://img.shields.io/badge/Minishell-111827?style=flat-square&logo=github&logoColor=7c6af7)](https://github.com/Miillliiinn/Minishell)
+&nbsp;&nbsp;
+[![IRC](https://img.shields.io/badge/IRC-111827?style=flat-square&logo=github&logoColor=7c6af7)](https://github.com/Miillliiinn/IRC)
+&nbsp;&nbsp;
+[![CPP](https://img.shields.io/badge/CPP-111827?style=flat-square&logo=github&logoColor=7c6af7)](https://github.com/Miillliiinn/CPP)
+&nbsp;&nbsp;
+[![Inception](https://img.shields.io/badge/Inception-111827?style=flat-square&logo=github&logoColor=7c6af7)](https://github.com/Miillliiinn/Inception)
+
+<br/>
+
+[![Transcendance](https://img.shields.io/badge/Transcendance-111827?style=flat-square&logo=github&logoColor=7c6af7)](https://github.com/Miillliiinn/Transcendance)
 
 <!--
 *futur repo :*******************************************************************************************************************************************************************************************************
