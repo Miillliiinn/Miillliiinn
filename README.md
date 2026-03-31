@@ -119,14 +119,10 @@
 &nbsp;&nbsp;
 <a href="https://github.com/Miillliiinn/Transcendance"><img src="https://img.shields.io/badge/Transcendance-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
 
-
-<!--
-*futur repo :*******************************************************************************************************************************************************************************************************
-<a href="https://github.com/Miillliiinn/NOM_DU_REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=NOM_DU_REPO&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=1" />
-</a>
-********************************************************************************************************************************************************************************************************************
--->
+<a href="https://github.com/Miillliiinn/Transcendance"><img src="https://img.shields.io/badge/Transcendance-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
+<a href="https://github.com/Miillliiinn/Transcendance"><img src="https://img.shields.io/badge/Transcendance-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
+<a href="https://github.com/Miillliiinn/Transcendance"><img src="https://img.shields.io/badge/Transcendance-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
+<a href="https://github.com/Miillliiinn/Transcendance"><img src="https://img.shields.io/badge/Transcendance-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
 
 </div>
 
