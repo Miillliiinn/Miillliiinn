@@ -97,7 +97,7 @@
 
 ---
 
-## ▸ 42 comoon core project Repos :
+## ▸ 42 common core project
 
 <div align="center">
 
