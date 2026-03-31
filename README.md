@@ -117,8 +117,6 @@
 &nbsp;&nbsp;
 [![Inception](https://img.shields.io/badge/Inception-7c6af7?style=flat-square&logo=github&logoColor=white)](https://github.com/Miillliiinn/Inception)
 
-<br/>
-
 [![Transcendance](https://img.shields.io/badge/Transcendance-7c6af7?style=flat-square&logo=github&logoColor=white)](https://github.com/Miillliiinn/Transcendance)
 
 <!--
