@@ -102,39 +102,39 @@
 <div align="center">
 
 <a href="https://github.com/Miillliiinn/FDF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=FDF&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=FDF&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/Miillliiinn/cub3D">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=cub3D&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=cub3D&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/Miillliiinn/Push-Swap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=Push-Swap&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=Push-Swap&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/Miillliiinn/Philosophers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=Philosophers&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=Philosophers&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/Miillliiinn/Minishell">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=Minishell&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=Minishell&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/Miillliiinn/IRC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=IRC&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=IRC&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/Miillliiinn/CPP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=CPP&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=CPP&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/Miillliiinn/Inception">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=Inception&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=Inception&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=86400" />
 </a>
 
 <a href="https://github.com/Miillliiinn/Transcendance">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=Transcendance&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=Transcendance&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=86400" />
 </a>
 
 <!--
