@@ -97,7 +97,7 @@
 
 ---
 
-## ▸ Public 42 project Repos
+## ▸ 42 comoon core project Repos :
 
 <div align="center">
 
@@ -117,11 +117,6 @@
 &nbsp;&nbsp;
 <a href="https://github.com/Miillliiinn/Inception"><img src="https://img.shields.io/badge/Inception-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
 &nbsp;&nbsp;
-<a href="https://github.com/Miillliiinn/Transcendance"><img src="https://img.shields.io/badge/Transcendance-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
-
-<a href="https://github.com/Miillliiinn/Transcendance"><img src="https://img.shields.io/badge/Transcendance-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
-<a href="https://github.com/Miillliiinn/Transcendance"><img src="https://img.shields.io/badge/Transcendance-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
-<a href="https://github.com/Miillliiinn/Transcendance"><img src="https://img.shields.io/badge/Transcendance-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
 <a href="https://github.com/Miillliiinn/Transcendance"><img src="https://img.shields.io/badge/Transcendance-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
 
 </div>
