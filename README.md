@@ -88,20 +88,6 @@
 
 ## ▸ Languages
 
-
-[![FDF](https://img.shields.io/badge/FDF-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/FDF)
-[![cub3D](https://img.shields.io/badge/cub3D-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/cub3D)
-[![Push--Swap](https://img.shields.io/badge/Push--Swap-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/Push-Swap)
-[![Philosophers](https://img.shields.io/badge/Philosophers-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/Philosophers)
-
-[![Minishell](https://img.shields.io/badge/Minishell-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/Minishell)
-[![IRC](https://img.shields.io/badge/IRC-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/IRC)
-[![CPP](https://img.shields.io/badge/CPP-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/CPP)
-[![Inception](https://img.shields.io/badge/Inception-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/Inception)
-[![Transcendance](https://img.shields.io/badge/Transcendance-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/Transcendance)
-
-
-
 <div align="center">
 
 <img src="langs.svg" alt="Languages" />
@@ -114,6 +100,17 @@
 ## ▸ Public 42 project Repos
 
 <div align="center">
+
+[![FDF](https://img.shields.io/badge/FDF-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/FDF)
+[![cub3D](https://img.shields.io/badge/cub3D-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/cub3D)
+[![Push--Swap](https://img.shields.io/badge/Push--Swap-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/Push-Swap)
+[![Philosophers](https://img.shields.io/badge/Philosophers-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/Philosophers)
+
+[![Minishell](https://img.shields.io/badge/Minishell-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/Minishell)
+[![IRC](https://img.shields.io/badge/IRC-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/IRC)
+[![CPP](https://img.shields.io/badge/CPP-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/CPP)
+[![Inception](https://img.shields.io/badge/Inception-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/Inception)
+[![Transcendance](https://img.shields.io/badge/Transcendance-Repo%20GitHub-7c6af7?style=for-the-badge&logo=github)](https://github.com/Miillliiinn/Transcendance)
 
 <a href="https://github.com/Miillliiinn/FDF">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miillliiinn&repo=FDF&bg_color=0d0d14&border_color=1e1e2e&title_color=7c6af7&text_color=e2e2f0&icon_color=38d9a9&hide_border=false&cache_seconds=86399" />
