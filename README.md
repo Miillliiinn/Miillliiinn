@@ -109,8 +109,6 @@
 &nbsp;&nbsp;
 [![Philosophers](https://img.shields.io/badge/Philosophers-7c6af7?style=flat-square&logo=github&logoColor=white)](https://github.com/Miillliiinn/Philosophers)
 
-<br/>
-
 [![Minishell](https://img.shields.io/badge/Minishell-7c6af7?style=flat-square&logo=github&logoColor=white)](https://github.com/Miillliiinn/Minishell)
 &nbsp;&nbsp;
 [![IRC](https://img.shields.io/badge/IRC-7c6af7?style=flat-square&logo=github&logoColor=white)](https://github.com/Miillliiinn/IRC)
