@@ -22,7 +22,7 @@
 
 </div>
 <div align="center">
-[📬 Mon adresse e-mail](mailto:thomasmilin1@gmail.com)
+  📬[Mon adresse e-mail](mailto:thomasmilin1@gmail.com)
 </div>
 
 ## ▸ Skills
