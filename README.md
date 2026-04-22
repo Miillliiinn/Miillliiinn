@@ -22,7 +22,7 @@
 
 </div>
 <div align="center">
-📫 [Mon adresse e-mail](mailto:thomasmilin1@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomasmilin1@gmail.com)
 </div>
 
 ## ▸ Skills
