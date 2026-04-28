@@ -86,6 +86,14 @@
 ![Linux admin](https://img.shields.io/badge/Linux%20admin-854F0B?style=flat-square&logo=linux&logoColor=white)
 ![networking / IP / subnetting](https://img.shields.io/badge/networking%20%2F%20IP%20%2F%20subnetting-854F0B?style=flat-square)
 
+### 🧠 Artificial Intelligence & Math
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-FF6F61?style=flat-square)
+![Double Q-Learning](https://img.shields.io/badge/Double%20Q--Learning-FF6F61?style=flat-square)
+![Experience Replay](https://img.shields.io/badge/Experience%20Replay-FF6F61?style=flat-square)
+![Pathfinding BFS](https://img.shields.io/badge/Pathfinding%20BFS-FF6F61?style=flat-square)
+![Markov Decision Process](https://img.shields.io/badge/MDP%20Model-FF6F61?style=flat-square)
+![Graph Theory](https://img.shields.io/badge/Graph%20Theory-FF6F61?style=flat-square)
+
 </div>
 
 ---
