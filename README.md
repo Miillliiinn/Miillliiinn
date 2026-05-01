@@ -103,7 +103,7 @@
 <div align="center">
 
 <img src="langs.svg" alt="Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e&cache_seconds=86399" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e&cache_seconds=86400" />
 
 </div>
 
@@ -140,6 +140,8 @@
 <div align="center">
 
 <a href="https://github.com/Miillliiinn/RLP"><img src="https://img.shields.io/badge/RLP-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/Miillliiinn/BMP_IL"><img src="https://img.shields.io/badge/BMP_IL-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
 &nbsp;&nbsp;
 
 </div>
