@@ -15,7 +15,7 @@
 
 <a href="#"><img src="https://skillicons.dev/icons?i=c" height="36"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="36"/></a>&nbsp;
-//<a href="#"><img src="https://skillicons.dev/icons?i=python" height="36"/></a>&nbsp;
+/*<a href="#"><img src="https://skillicons.dev/icons?i=python" height="36"/></a>&nbsp;*/
 <a href="#"><img src="https://skillicons.dev/icons?i=js" height="36"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=bash" height="36"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=docker" height="36"/></a>
