@@ -117,7 +117,7 @@
 
 <div align="center">
 <p>common core :</p>
-  <>
+<p> </p>
 <a href="https://github.com/Miillliiinn/FDF"><img src="https://img.shields.io/badge/FDF-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/Miillliiinn/cub3D"><img src="https://img.shields.io/badge/cub3D-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
@@ -135,7 +135,7 @@
 <a href="https://github.com/Miillliiinn/Inception"><img src="https://img.shields.io/badge/Inception-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/Miillliiinn/Transcendance"><img src="https://img.shields.io/badge/Transcendance-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
-    <>
+<p> </p>
 <p>post common core :</p>
 
 </div>
