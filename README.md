@@ -113,7 +113,7 @@
 
 ---
 
-## ▸ 42 project
+## ▸ 42 projects
 
 <div align="center">
 <p>common core :</p>
