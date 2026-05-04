@@ -116,7 +116,8 @@
 ## ▸ 42 project
 
 <div align="center">
-<p>42 common core project</p>
+<p>common core :</p>
+  <>
 <a href="https://github.com/Miillliiinn/FDF"><img src="https://img.shields.io/badge/FDF-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/Miillliiinn/cub3D"><img src="https://img.shields.io/badge/cub3D-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
@@ -134,7 +135,8 @@
 <a href="https://github.com/Miillliiinn/Inception"><img src="https://img.shields.io/badge/Inception-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/Miillliiinn/Transcendance"><img src="https://img.shields.io/badge/Transcendance-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
-<p>42 post common core project</p>
+    <>
+<p>post common core :</p>
 
 </div>
 
