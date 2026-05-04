@@ -146,11 +146,11 @@
 
 <div align="center">
 
+<a href="https://github.com/Miillliiinn/Exercices"><img src="https://img.shields.io/badge/Exercices-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
+&nbsp;&nbsp;
 <a href="https://github.com/Miillliiinn/RLP"><img src="https://img.shields.io/badge/RLP-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/Miillliiinn/BMP_IL"><img src="https://img.shields.io/badge/BMP_IL-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
-&nbsp;&nbsp;
-<a href="https://github.com/Miillliiinn/Exercices"><img src="https://img.shields.io/badge/Exercices-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
 &nbsp;&nbsp;
 
 </div>
