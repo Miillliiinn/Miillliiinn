@@ -19,6 +19,7 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=js" height="36"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=ts" height="36"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=react" height="36"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=django" height="36"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=bash" height="36"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=docker" height="36"/></a>
 
