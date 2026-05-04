@@ -76,6 +76,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-0F6E56?style=flat-square&logo=nginx&logoColor=white)
 ![session management](https://img.shields.io/badge/session%20management-0F6E56?style=flat-square)
 ![CSRF protection](https://img.shields.io/badge/CSRF%20protection-0F6E56?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### ⚙️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-854F0B?style=flat-square&logo=docker&logoColor=white)
