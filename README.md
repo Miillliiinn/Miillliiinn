@@ -43,6 +43,7 @@
 ![threads](https://img.shields.io/badge/threads-0C447C?style=flat-square)
 ![mutexes](https://img.shields.io/badge/mutexes-0C447C?style=flat-square)
 ![sockets](https://img.shields.io/badge/sockets-0C447C?style=flat-square)
+![ICMP protocol](https://img.shields.io/badge/ICMP%20protocol-0C447C?style=flat-square)
 ![IRC protocol](https://img.shields.io/badge/IRC%20protocol-0C447C?style=flat-square)
 ![parsing](https://img.shields.io/badge/parsing-0C447C?style=flat-square)
 ![linked lists](https://img.shields.io/badge/linked%20lists-0C447C?style=flat-square)
