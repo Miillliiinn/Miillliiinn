@@ -137,6 +137,8 @@
 <a href="https://github.com/Miillliiinn/Transcendance"><img src="https://img.shields.io/badge/Transcendance-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
 <p> </p>
 <p>post common core :</p>
+<a href="https://github.com/Miillliiinn/ft_ping"><img src="https://img.shields.io/badge/ft_ping-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
+&nbsp;&nbsp;
 
 </div>
 
