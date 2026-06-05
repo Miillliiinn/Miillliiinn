@@ -108,7 +108,7 @@
 <div align="center">
 
 <img src="langs.svg" alt="Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e&cache_seconds=86400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miillliiinn&theme=transparent&border_color=1e1e2e&cache_seconds=86399" />
 
 </div>
 
@@ -139,6 +139,8 @@
 <p> </p>
 <p>post common core :</p>
 <a href="https://github.com/Miillliiinn/ft_ping"><img src="https://img.shields.io/badge/ft_ping-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/Miillliiinn/ft_traceroute"><img src="https://img.shields.io/badge/ft_traceroute-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
 &nbsp;&nbsp;
 
 </div>
