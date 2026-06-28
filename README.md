@@ -144,6 +144,8 @@
 &nbsp;&nbsp;
 <a href="https://github.com/Miillliiinn/little-penguin-1"><img src="https://img.shields.io/badge/little--penguin--1-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
 &nbsp;&nbsp;
+<a href="https://github.com/Miillliiinn/malloc"><img src="https://img.shields.io/badge/malloc-111827?style=flat-square&logo=github&logoColor=7c6af7" height="28"/></a>
+&nbsp;&nbsp;
 
 </div>
 
