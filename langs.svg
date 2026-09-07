@@ -13,8 +13,8 @@
   <text x="471" y="66" class="lbl" text-anchor="end">60.0%</text>
   <text x="24" y="98" class="lng">TS</text>
   <rect x="90" y="91" width="340" height="6" rx="3" fill="#1e1e2e"/>
-  <rect x="90" y="91" width="68" height="6" rx="3" fill="#a8e4ff"/>
-  <text x="471" y="98" class="lbl" text-anchor="end">13.2%</text>
+  <rect x="90" y="91" width="67" height="6" rx="3" fill="#a8e4ff"/>
+  <text x="471" y="98" class="lbl" text-anchor="end">13.1%</text>
   <text x="24" y="130" class="lng">JS</text>
   <rect x="90" y="123" width="340" height="6" rx="3" fill="#1e1e2e"/>
   <rect x="90" y="123" width="54" height="6" rx="3" fill="#fff0a8"/>
