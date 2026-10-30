@@ -69,6 +69,9 @@
 ![RAII](https://img.shields.io/badge/RAII-534AB7?style=flat-square)
 
 ### 🌐 Web & Full-stack
+![TypeScript](https://img.shields.io/badge/TypeScript-0F6E56?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-0F6E56?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0F6E56?style=flat-square&logo=react&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-0F6E56?style=flat-square&logo=django&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-0F6E56?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST%20API-0F6E56?style=flat-square)
@@ -80,11 +83,11 @@
 ![Nginx](https://img.shields.io/badge/Nginx-0F6E56?style=flat-square&logo=nginx&logoColor=white)
 ![session management](https://img.shields.io/badge/session%20management-0F6E56?style=flat-square)
 ![CSRF protection](https://img.shields.io/badge/CSRF%20protection-0F6E56?style=flat-square)
-![React](https://img.shields.io/badge/React-0F6E56?style=flat-square&logo=react&logoColor=white)
 
 ### ⚙️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-854F0B?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-854F0B?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare%20Tunnel-854F0B?style=flat-square&logo=cloudflare&logoColor=white)
 ![Nginx reverse proxy](https://img.shields.io/badge/Nginx%20reverse%20proxy-854F0B?style=flat-square&logo=nginx&logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-854F0B?style=flat-square)
 ![MariaDB](https://img.shields.io/badge/MariaDB-854F0B?style=flat-square&logo=mariadb&logoColor=white)
@@ -101,6 +104,10 @@
 ![Pathfinding BFS](https://img.shields.io/badge/Pathfinding%20BFS-FF6F61?style=flat-square)
 ![Markov Decision Process](https://img.shields.io/badge/MDP%20Model-FF6F61?style=flat-square)
 ![Graph Theory](https://img.shields.io/badge/Graph%20Theory-FF6F61?style=flat-square)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-FF6F61?style=flat-square)
+![Prompt Guard](https://img.shields.io/badge/Prompt%20Guard%20%26%20Security-FF6F61?style=flat-square)
+![Function Calling](https://img.shields.io/badge/LLM%20Function%20Calling-FF6F61?style=flat-square)
+![Geospatial Data](https://img.shields.io/badge/Geospatial%20%26%20GIS-FF6F61?style=flat-square)
 
 </div>
 
