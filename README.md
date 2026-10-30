@@ -23,7 +23,7 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=prisma" height="36"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=react" height="36"/></a>&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=bash" height="36"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/groq.svg" width="36" height="36" style="background: #000; padding: 4px; border-radius: 4px;" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" height="36"/></a>&nbsp;
 <!-- <a href="#"><img src="https://skillicons.dev/icons?i=django" height="36"/></a>&nbsp; -->
 
 </div>
